@@ -29,10 +29,6 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=murieljesus&show_icons=true&count_private=true&theme=white" width="600"></a>
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/murieljesus/murieljesus"></a>
-</p>
-
 <details>
   <summary>📃 Resume</summary>
 
